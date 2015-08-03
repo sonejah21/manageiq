@@ -40,7 +40,9 @@
     "angular-filter": "~0.5.4",
     "highcharts": "~4.1.6",
     "highcharts-ng": "~0.0.8",
-    "angular-marked": "~0.0.21"
+    "angular-marked": "~0.0.21",
+    "patternfly-sass": "git@github.com:patternfly/patternfly-sass.git"
+
   },
   "resolutions": {
     "angular": "~1.3.0"
